@@ -9,7 +9,7 @@ public class ShoppingCart {
 
     public void getProducts() {
         for (int i = 0; i < products.length; i++) {
-            System.out.println(products[i].toString());
+            System.out.println(products[i]);
         }
     }
 
